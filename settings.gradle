@@ -1,0 +1,2 @@
+rootProject.name = "EduPreferences"
+include ':app'
